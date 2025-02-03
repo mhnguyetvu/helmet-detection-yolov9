@@ -1,0 +1,7 @@
+torch
+torchvision
+torchaudio
+opencv-python
+numpy
+Pillow
+PyYAML  # Likely needed for YOLO config files
